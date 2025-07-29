@@ -2,7 +2,7 @@
 
 > 🛰️ A modern, multi-point VXLAN tunnel manager with diagnostics, cleanup, and live menu — upgraded from **Lena Tunnel**.
 
-![Ubuntu Tested](https://github.com/RootedOne/VxLan-Multi-Tunnel/blob/main/Vx.PNG)
+<img src="https://github.com/RootedOne/VxLan-Multi-Tunnel/blob/main/Vx.PNG" width="631" height="266" alt="Ubuntu Tested">
 
 ---
 
