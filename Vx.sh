@@ -12,7 +12,7 @@ IFACE=$(ip route get 1.1.1.1 | awk '{print $5; exit}')
 # Menu
 clear
 echo "=========================="
-echo "  VXLAN Setup Menu"
+echo "  VXLAN Setup Menu - TG: @ProjOWL"
 echo "=========================="
 echo "1. Peer Server (A, B, C, D, E...)"
 echo "2. Central Server (X)"
