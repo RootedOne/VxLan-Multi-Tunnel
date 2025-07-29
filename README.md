@@ -13,6 +13,13 @@ Run the script directly with:
 ```bash
 bash <(wget -qO- https://raw.githubusercontent.com/RootedOne/VxLan-Multi-Tunnel/main/Vx.sh) 
 ```
+---
+
+## 📦 Requirements
+
+- ✅ Ubuntu 22.04 (tested)  
+- 🧑 Root privileges (required)  
+- 🐧 Linux kernel with `vxlan` + `bridge` support  
 
 ---
 
@@ -37,13 +44,3 @@ Originally forked and enhanced from **Lena Tunnel**, it adds:
 - 🧹 Cleanup mode removes all VXLAN + bridge configs  
 - 🖥️ Status mode shows live tunnel + IP table  
 - 🔁 Re-runnable — safely rebuilds tunnels each time  
-
----
-
-## 📦 Requirements
-
-- ✅ Ubuntu 22.04 (tested)  
-- 🧑 Root privileges (required)  
-- 🐧 Linux kernel with `vxlan` + `bridge` support  
-
----
