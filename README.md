@@ -2,7 +2,17 @@
 
 > 🛰️ A modern, multi-point VXLAN tunnel manager with diagnostics, cleanup, and live menu — upgraded from **Lena Tunnel**.
 
-![Ubuntu Tested]([https://img.shields.io/badge/tested-Ubuntu%2022.04-blue?logo=ubuntu](https://github.com/RootedOne/VxLan-Multi-Tunnel/blob/main/Vx.PNG))
+![Ubuntu Tested](https://github.com/RootedOne/VxLan-Multi-Tunnel/blob/main/Vx.PNG)
+
+---
+
+## 📥 Installation
+
+Run the script directly with:
+
+```bash
+bash <(wget -qO- https://raw.githubusercontent.com/RootedOne/VxLan-Multi-Tunnel/main/Vx.sh) 
+```
 
 ---
 
@@ -51,10 +61,3 @@ Cleanup All VXLAN Configurations
 - 🐧 Linux kernel with `vxlan` + `bridge` support  
 
 ---
-
-## 📥 Installation
-
-Run the script directly with:
-
-```bash
-bash <(wget -qO- https://raw.githubusercontent.com/RootedOne/VxLan-Multi-Tunnel/main/Vx.sh) 
