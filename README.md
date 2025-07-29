@@ -29,18 +29,6 @@ Originally forked and enhanced from **Lena Tunnel**, it adds:
 
 ---
 
-## 🚀 Demo
-
-
-  VXLAN Setup Menu
-________________________
-1. Peer Server (A, B, C, D, E...)
-2. Central Server (X)
-3. Show VXLAN Tunnel Info
-4. Cleanup All VXLAN Configurations
-
----
-
 ## ✨ Features
 
 - 🌐 Connect 2 or more peer servers to a central VXLAN node  
