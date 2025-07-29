@@ -25,7 +25,7 @@ bash <(wget -qO- https://raw.githubusercontent.com/RootedOne/VxLan-Multi-Tunnel/
 
 ## 🔧 What It Does
 
-**VxLan Multi Tunnel** is a menu-driven Bash script that creates VXLAN tunnels between multiple Linux servers (Peers A, B, C…) and a Central server (X). It allows cloud VMs to securely communicate over a Layer 2 virtual overlay.
+**VxLan Multi Tunnel** is a menu-driven Bash script that creates VXLAN tunnels between multiple Linux servers (Peers A, B, C…) and a Central server (X) with DSTPORT=4789. It allows cloud VMs to securely communicate over a Layer 2 virtual overlay.
 
 Originally forked and enhanced from **Lena Tunnel**, it adds:
 
